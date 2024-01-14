@@ -18,7 +18,7 @@
 * **Name**: Vinicius Guedes
 * **Age**: 27
 * **Living in**: Capanema - PA, Brazil
-* **Stack**: JS - CSS3 - HTML5 - Bootstrap
+* **Stack**: JS - CSS3 - HTML5 - PHP - Bootstrap
 * **University**: Information System - UFRA
 
 <div align="center">
