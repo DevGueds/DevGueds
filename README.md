@@ -12,11 +12,11 @@
 
 ## Hello There
 
-*  I'm study: HTML - CSS - SQL e JS
+*  I'm study: HTML - CSS - JS - PHP - SQL
 
 ## Detailed information
 * **Name**: Vinicius Guedes
-* **Age**: 27
+* **Age**: 29
 * **Living in**: Capanema - PA, Brazil
 * **Stack**: JS - CSS3 - HTML5 - PHP - Bootstrap
 * **University**: Information System - UFRA
