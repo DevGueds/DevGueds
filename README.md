@@ -12,14 +12,13 @@
 
 ## Hello There
 
-*  I'm study: HTML - CSS - JS - PHP - SQL
+*  I'm study: HTML - CSS - JS - Python - SQL
 
 ## Detailed information
 * **Name**: Vinicius Guedes
-* **Age**: 29
+* **Age**: 30
 * **Living in**: Capanema - PA, Brazil
-* **Stack**: JS - CSS3 - HTML5 - PHP - Bootstrap
-* **University**: Information System - UFRA
+* **Degree**: Information System - UFRA
 
 <div align="center">
   <a href="https://github.com/DevGueds">
